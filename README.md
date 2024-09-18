@@ -1,7 +1,7 @@
 
 <p align="center">
-  <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" />
-  <img alt="NNA-CO Seal Logo" src="images/nna_co_seal_logo.png" width="150" />
+  <img alt="NSIDC logo" src="https://nsidc.org/themes/custom/nsidc/logo.svg" width="150" style="margin-right: 100px;"/>
+  <img alt="NNA-CO Seal Logo" src="images/nna_co_seal_logo.png" width="200" style="margin-left: 100px;"/>
 </p>
 
 
